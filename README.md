@@ -1,4 +1,4 @@
-### 👋 Welcome 👋
+### 👋 Hi there! 👋
 
 My name is Eirik and I'm a PhD student in mathematics at NTNU. I have an interest in data science, and enjoy applying theory to practical situations. I'm part of two machine learning teams, whose names are `Rage Against the Machine Learning` and `Random Florists and Decision Bees`. 
 
